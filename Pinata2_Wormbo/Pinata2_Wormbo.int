@@ -1,0 +1,3 @@
+[Public]
+Object=(Name=Pinata2_Wormbo.PinataModMenuItem,Class=Class, MetaClass=UMenu.UMenuModMenuItem)
+Object=(Name=Pinata2_Wormbo.Pinata,Class=Class,MetaClass=Engine.Mutator,Description="Piñata 2 - Wormbo's, Drops a player's inventiry on death. (Supports the EnhancedItems and EnhancedRelics mutators)")
